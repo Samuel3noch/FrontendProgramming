@@ -3,4 +3,4 @@ everything I learn at school from the book frontend programming.
 
 content: 
 
-1.1 Introduction/Inleiding.
+1 Basis HTML5 en CSS3.
