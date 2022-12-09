@@ -1,5 +1,5 @@
 # FrontendProgramming
-everything I learn at school from the book frontend programming.
+Everything I learn at school from the book frontend programming.
 
 # content: 
 
