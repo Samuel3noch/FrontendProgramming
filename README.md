@@ -8,4 +8,4 @@ Everything I learn at school from the book frontend programming.
 1.1      <br>
 1.2      <br>
 
-(Tijdsvak: Leerjaar 1, Periode 1, Periode 2).
+(Tijdsvak: Leerjaar 1, Periode 1, Periode 2, Periode 3).
