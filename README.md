@@ -25,7 +25,7 @@ Everything I learn at school from the book frontend programming.
 2 Basis JavaScript.
 
 2.1 Inleiding JavaScript <br> 
-2.2      <br>
+2.2 <br>
 2.3      <br> 
 2.4      <br> 
 2.5      <br>
