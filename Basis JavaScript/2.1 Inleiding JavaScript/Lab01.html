@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="nl"> 
+<head> 
+  <meta http-equiv="Content-Type"
+     Content="text/html";
+     charset="UTF-8">
+  <title>lab 01</title> <!-- Titel van de website. -->
+</head>
+<body> 
+  <h2> lab 01</h2> <!-- Titel van de webpage-->
+  <h3> Factuur</h3> 
+ <script> 
+   var klantnaam = prompt("Voer je eigen naam in."); // pop up waar je je eigennaam in kan voeren.
+   var aantal = 
+   parseInt(prompt("aantal boeken te bestellen?")); // pop up met de vraag of je een aantal boeken te bestellen heb.
+      var titel = "Javascript"; // variabel met een titel van een boek.
+      var prijs = 29.90; //variabel met 29.90 erin.
+      var bedrag =  prijs * aantal // hier reken ik het bedrag uit.
+      var btw = bedrag / 100 * 6 // berekent het bedrag zonder btw. 
+      var totaal = bedrag + btw //totaal bedrag  met btw erin.
+         document.write( //hier laat ik alle stukken zien op de website.
+              "<br> Bedankt voor je bestelling: " + klantnaam + 
+              "<br> Boektitel is: " + titel + 
+              "<br> Aantal te bestellen: " + aantal +
+              "<br> Prijs per boek is: " + prijs.toFixed(2) + 
+              "<br> Bedrag is: " + bedrag.toFixed(2) + 
+              "<br> Btw is: " + btw.toFixed(2) + 
+              "<br> Totaal inclusief btw is: " + totaal.toFixed(2)
+         );
+ </script>
+</body>
+</html>
