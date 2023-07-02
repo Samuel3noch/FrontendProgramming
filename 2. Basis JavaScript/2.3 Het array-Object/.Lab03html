@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head> 
+  <meta http-equiv="Content-Type"
+      content="text/html"
+      charset="UTF-8"> 
+<title>lab03</title>
+</head>
+<body> 
+  <script> 
+      document.write("Lab 03"); // Dit laat zien met welke opdracht we bezig zijn.
+      testarray[0] = "een"; // ik heb de volgende array gecodeerd.
+      testarray[1] = "twee";
+      testarray[2] = "drie";
+      testarray[3] = "vier";
+  </script>
+</body>
+</html>

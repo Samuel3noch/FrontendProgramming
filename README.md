@@ -3,7 +3,7 @@ Everything I learn at school from the book frontend programming.
 
 # content: 
 
-1 Basis HTML5 en CSS3. 
+# 1 Basis HTML5 en CSS3. 
 
 1.1 Inleiding      <br>
 1.2      <br>
@@ -22,7 +22,7 @@ Everything I learn at school from the book frontend programming.
 1.15     <br>
 1.16     <br> 
 
-2 Basis JavaScript.
+# 2 Basis JavaScript.
 
 2.1 Inleiding JavaScript <br> 
 2.2 Datatypes <br>
