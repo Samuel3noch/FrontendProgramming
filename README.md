@@ -6,7 +6,7 @@ Everything I learn at school from the book frontend programming.
 # 1 Basis HTML5 en CSS3. 
 
 1.1 Inleiding      <br>
-1.2      <br>
+1.2 CSS3     <br>
 1.3      <br>
 1.4      <br> 
 1.5      <br> 
