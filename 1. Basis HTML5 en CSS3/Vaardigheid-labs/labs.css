@@ -1,0 +1,37 @@
+
+/* Hier heb ik de eerste div bewerkt in css. */
+#div1 {
+ box-shadow: 0px 4px 4px 0px;
+ width: 80%;
+ height: 80px;
+ font-size: 20px;
+ margin: auto;
+ margin-top: 3%;
+ margin-bottom: 3%;
+}
+
+/* Hier heb ik de tweede div bewerkt in css. */
+#div2 { 
+ box-shadow: 0px 4px 4px 0px;   
+ width: 80%;
+ height: 220px;
+ font-size: 15px;
+ margin-left: 5%;
+ margin-bottom: 3%;   
+}
+
+/* Hier heb ik de derde div bewerkt in css. */
+#div3 { 
+ box-shadow: 0px 4px 4px 0px;   
+ width: 80%;
+ height: 150px;
+ margin-left: 3%; 
+}
+
+/* Hier heb ik de vierde div bewerkt in css. */
+#div4 { 
+ box-shadow: 0px 4px 4px 0px;   
+ width: 80%;
+ height: 100px;
+ margin-left: 0%;
+}
