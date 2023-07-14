@@ -1,3 +1,11 @@
+<!-- Ik voor hier een oefening uit van het boek:
+- Background color.
+- Border.
+- Marges.
+- Padding.
+- Box-shadow.
+- texkstschaduw. 
+-->
 <!DOCTYPE html>
 <html lang="nl"> 
 <head> 
@@ -7,11 +15,57 @@
   <style> 
   body { 
     border: 1px solid;
+    width: 40%;
+    font-size: 80px;
+  } 
+  #a { 
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-left: 25px;
+    box-shadow: 5px 5px 10px green;
+    color: red;
+    text-shadow: 2px 2px 5px;
+  }
+  #b {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    box-shadow: -5px -5px 10px black;
+    color: green;
+    text-shadow: -2px -2px -5px;
+  }
+  #c { 
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    border: 3px dotted black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    padding-right: 25px;
+    box-shadow: 0px 5px 10px blue;
+    color: white;
+    text-shadow: 0px 2px 0px;
   }
   </style>   
 </head>
 <body> 
-
-
+  <div id="a">  
+   A
+  </div>
+  <div id="b"> 
+   B
+  </div>
+  <div id="c"> 
+   C
+  </div>
 </body>
 </html>
